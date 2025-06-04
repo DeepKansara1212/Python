@@ -83,3 +83,29 @@ Count all letters, digits, and special symbols from a given string.
 Create a **random number guessing game** using Python.
 
 ---
+
+
+# While Loop Practice Problems
+
+## 1. Separate the digits
+Separate each digit of a number and print it on the new line.
+
+---
+
+## 2. Reverse of a Number
+Accept a number and print its reverse.
+
+---
+
+## 3. Check Palindrome
+ Accept a number and check if it is a pallindromic number (If number and its reverse are equal).
+
+---
+
+
+# Project
+
+## 1. Guess the Number
+Create a random number guessing game with python.
+
+---
