@@ -79,10 +79,6 @@ Count all letters, digits, and special symbols from a given string.
 
 ---
 
-## 14. Number Guessing Game
-Create a **random number guessing game** using Python.
-
----
 
 
 # While Loop Practice Problems
