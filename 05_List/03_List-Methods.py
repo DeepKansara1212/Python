@@ -5,7 +5,7 @@ print(f"Original List: {l}")
 
 # Append
 l.append(50)
-print(l)
+print(l)  
 
 # help(list)
 

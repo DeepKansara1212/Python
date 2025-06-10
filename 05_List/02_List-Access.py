@@ -6,11 +6,19 @@ l = [10, 20, 60, 23.4, 25.6, "Deep", print()]
 
 # Traversing With Index Value
 for i in range(len(l)):
-    print(l[i]) 
+    print(i) 
 
 
 
 # Traversing With Direct Values
 for i in l:
     print(i) 
+
+
+
+l1 = [10, 20, 30]
+
+del l1
+
+# print(l1)
 
