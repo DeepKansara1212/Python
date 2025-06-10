@@ -4,7 +4,7 @@
 
 ## 🔹 Problem 1: Sum of Elements
 
-**Task:** Write a Python program to calculate the **sum of all elements** in a list.
+**Task:** Write a Python program to calculate the **sum of all elements** in a list. 
 
 **Example:** Input: `[2, 4, 6, 8]` Output: `20`
 
