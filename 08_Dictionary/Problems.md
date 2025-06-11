@@ -104,3 +104,36 @@ Input: `{'a': 1, 'b': 2, 'c': 1, 'd': 2, 'e': 3}`
 Output: `{'a': 1, 'b': 2, 'e': 3}`
 
 ---
+
+## 🔹 Project: Student Information Retrieval System
+
+**Task:** Build a **console-based Student Information Retrieval System** using nested dictionaries.  
+Each student is identified by a **roll number**, and associated with their **Name**, **Phone Number**, and **Percentage**.
+
+Prompt the user to:
+- Enter a roll number
+- Choose which information to display:
+  - `n` → Name
+  - `ph` → Phone Number
+  - `p` → Percentage
+
+**Additional Requirement:**
+- Show the **total number of students**
+- Display output in a user-friendly message format
+
+**Example:**  
+Input:  
+```python
+students = {
+  '123': {'Name': 'John', 'Ph': '9999999999', 'Percentage': '82%'},
+  '456': {'Name': 'Adam', 'Ph': '8888888888', 'Percentage': '91%'},
+  '789': {'Name': 'Eva', 'Ph': '7777777777', 'Percentage': '85%'}
+}
+
+User Input:
+Enter Roll Number: 456
+Choose Detail to Fetch (n/ph/p): n
+
+Output:
+The total number of students are: 3
+The Name of the Student with roll no: 456 is Adam.
