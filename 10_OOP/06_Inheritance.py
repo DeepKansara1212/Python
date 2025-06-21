@@ -5,6 +5,7 @@ class Factory:
         self.material = material
         self.pockets = pockets
 
+    # Instance Method
     def show(self):
         print(f"The material is {self.material} & it has {self.pockets} no. of pockets")
 
