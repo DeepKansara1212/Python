@@ -36,7 +36,7 @@ AMCSquare Details
 
 ---
 
-## ➕ 4. Arithmetic Operations – Abstract Class
+## ➕ 4. Arithmetic Operations – Abstract Class 
 **Problem:**  
 Write a program comprising of an abstract class `Arithmetic` that derives classes, `Divide`, `Multiply`, `Sum`, and `Subtract`. `Arithmetic` should contain an abstract method `performOperation()` which when called from derived class instances should perform relevant arithmetic operations.
 
